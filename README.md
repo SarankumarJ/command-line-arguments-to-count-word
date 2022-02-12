@@ -44,9 +44,10 @@ print("Word count in file = ", count)
 
 ~~~
 
+![gitlogo](./program.png)
+
 ### OUTPUT:
 
-![gitlogo](./program.png)
 ![gitlogo](./output.png)
 
 
